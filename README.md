@@ -40,7 +40,11 @@
     <tr>
       <td><a href="https://github.com/aazw/go-base">go-base</a></td>
       <td><a href="https://deepwiki.com/aazw/go-base"><img src="https://deepwiki.com/badge.svg"></a></td>
-      <td><a href="https://github.com/github/docs/actions/workflows/renovate-pr-check.yaml/badge.svg">Check Renovate Pull Request</a></td>
+      <td>
+        <a href="https://github.com/aazw/go-base/actions/workflows/renovate-pr-check.yaml">
+          <img src="https://github.com/aazw/go-base/actions/workflows/renovate-pr-check.yaml/badge.svg">
+        </a>
+      </td>
     </tr>
     <tr>
       <td><a href="https://github.com/aazw/dragopen">dragopen</a></td>
