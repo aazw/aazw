@@ -1,6 +1,6 @@
 | Repository                                                                                         | Actions |
 |----------------------------------------------------------------------------------------------------|---------|
-| [aazw](https://github.com/aazw/aazw)                                                               | |
+| [aazw](https://github.com/aazw/aazw) (profile repo)                                                | |
 | [github-planter](https://github.com/aazw/github-planter)                                           | |
 | [vscode-base](https://github.com/aazw/vscode-base)                                                 | |
 | [vscode-go](https://github.com/aazw/vscode-go)                                                     | |
