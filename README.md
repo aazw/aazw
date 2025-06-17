@@ -19,8 +19,8 @@ Pull Requests:
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/aazw/aazw" target="_blank">aazw</a> (profile repo)</td>
-      <td></td>
+      <td><a href="https://github.com/aazw/aazw" target="_blank">aazw</a></td>
+      <td>Profile repo</td>
       <td><a href="https://github.com/aazw/aazw/pulls" target="_blank"><img src="https://img.shields.io/github/issues-pr/aazw/aazw"></td>
       <td></td>
     </tr>
@@ -81,8 +81,8 @@ Pull Requests:
       <td>Private repo</td>
       <td><a href="https://github.com/aazw/vscode-arduino/pulls" target="_blank"><img src="https://img.shields.io/github/issues-pr/aazw/vscode-arduino"></td>
       <td>
-        <a href="https://github.com/aazw/vscode-arduino/actions/workflows/renovate-pr-check.yaml" target="_blank" alt="Private repo">
-          <img src="https://github.com/aazw/vscode-arduino/actions/workflows/renovate-pr-check.yaml/badge.svg">
+        <a href="https://github.com/aazw/vscode-arduino/actions/workflows/renovate-pr-check.yaml" target="_blank">
+          <img src="https://github.com/aazw/vscode-arduino/actions/workflows/renovate-pr-check.yaml/badge.svg" alt="Private repo">
         </a>
       </td>
     </tr>
@@ -167,8 +167,8 @@ Pull Requests:
       <td>Private repo</td>
       <td><a href="https://github.com/aazw/sensor-rs-wfevs1/pulls" target="_blank"><img src="https://img.shields.io/github/issues-pr/aazw/sensor-rs-wfevs1"></td>
       <td>
-        <a href="https://github.com/aazw/sensor-rs-wfevs1/actions/workflows/download_csv_from_s3.yml" target="_blank" alt="Private repo">
-          <img src="https://github.com/aazw/sensor-rs-wfevs1/actions/workflows/download_csv_from_s3.yml/badge.svg">
+        <a href="https://github.com/aazw/sensor-rs-wfevs1/actions/workflows/download_csv_from_s3.yml" target="_blank">
+          <img src="https://github.com/aazw/sensor-rs-wfevs1/actions/workflows/download_csv_from_s3.yml/badge.svg" alt="Private repo">
         </a>
       </td>
     </tr>
