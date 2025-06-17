@@ -70,7 +70,11 @@
       <td><a href="https://github.com/aazw/vscode-arduino">vscode-arduino</a></td>
       <td>Private</td>
       <td><a href="https://github.com/aazw/vscode-arduino/pulls"><img src="https://img.shields.io/github/issues-pr/aazw/vscode-arduino"></td>
-      <td></td>
+      <td>
+        <a href="https://github.com/aazw/vscode-arduino/actions/workflows/renovate-pr-check.yaml">
+          <img src="https://github.com/aazw/vscode-arduino/actions/workflows/renovate-pr-check.yaml/badge.svg">
+        </a>
+      </td>
     </tr>
     <tr>
       <td><a href="https://github.com/aazw/go-base">go-base</a></td>
@@ -86,37 +90,77 @@
       <td><a href="https://github.com/aazw/dragopen">dragopen</a></td>
       <td><a href="https://deepwiki.com/aazw/dragopen"><img src="https://deepwiki.com/badge.svg"></a></td>
       <td><a href="https://github.com/aazw/dragopen/pulls"><img src="https://img.shields.io/github/issues-pr/aazw/dragopen"></td>
-      <td></td>
+      <td>
+        <a href="https://github.com/aazw/dragopen/actions/workflows/renovate-pr-check.yaml">
+          <img src="https://github.com/aazw/dragopen/actions/workflows/renovate-pr-check.yaml/badge.svg">
+        </a>
+      </td>
     </tr>
     <tr>
       <td><a href="https://github.com/aazw/firefox-addon-quick-download-images">firefox-addon-quick-download-images</a></td>
       <td><a href="https://deepwiki.com/aazw/firefox-addon-quick-download-images"><img src="https://deepwiki.com/badge.svg"></a></td>
       <td><a href="https://github.com/aazw/firefox-addon-quick-download-images/pulls"><img src="https://img.shields.io/github/issues-pr/aazw/firefox-addon-quick-download-images"></td>
-      <td></td>
+      <td>
+        <a href="https://github.com/aazw/firefox-addon-quick-download-images/actions/workflows/renovate-pr-check.yaml">
+          <img src="https://github.com/aazw/firefox-addon-quick-download-images/actions/workflows/renovate-pr-check.yaml/badge.svg">
+        </a>
+      </td>
     </tr>
     <tr>
       <td><a href="https://github.com/aazw/github-trending-feeds">github-trending-feeds</a></td>
       <td><a href="https://deepwiki.com/aazw/github-trending-feeds"><img src="https://deepwiki.com/badge.svg"></a></td>
       <td><a href="https://github.com/aazw/github-trending-feeds/pulls"><img src="https://img.shields.io/github/issues-pr/aazw/github-trending-feeds"></td>
-      <td></td>
+      <td>
+        <a href="https://github.com/aazw/github-trending-feeds/actions/workflows/renovate-pr-check.yaml">
+          <img src="https://github.com/aazw/github-trending-feeds/actions/workflows/renovate-pr-check.yaml/badge.svg">
+        </a>
+        <br/>
+        <a href="https://github.com/aazw/github-trending-feeds/actions/workflows/scrape_trending_daily.yml">
+          <img src="https://github.com/aazw/github-trending-feeds/actions/workflows/scrape_trending_daily.yml/badge.svg">
+        </a>
+        <br/>
+        <a href="https://github.com/aazw/github-trending-feeds/actions/workflows/scrape_trending_weekly.yml">
+          <img src="https://github.com/aazw/github-trending-feeds/actions/workflows/scrape_trending_weekly.yml/badge.svg">
+        </a>
+        <br/>
+        <a href="https://github.com/aazw/github-trending-feeds/actions/workflows/scrape_trending_monthly.yml">
+          <img src="https://github.com/aazw/github-trending-feeds/actions/workflows/scrape_trending_monthly.yml/badge.svg">
+        </a>
+      </td>
     </tr>
     <tr>
       <td><a href="https://github.com/aazw/github-trending-feeds-data">github-trending-feeds-data</a></td>
       <td></td>
       <td><a href="https://github.com/aazw/github-trending-feeds-data/pulls"><img src="https://img.shields.io/github/issues-pr/aazw/github-trending-feeds-data"></td>
-      <td></td>
+      <td>
+        <a href="https://github.com/aazw/github-trending-feeds-data/actions/workflows/github-pages.yml">
+          <img src="https://github.com/aazw/github-trending-feeds-data/actions/workflows/github-pages.yml/badge.svg">
+        </a>
+      </td>
     </tr>
     <tr>
       <td><a href="https://github.com/aazw/rfc-search">rfc-search</a></td>
       <td><a href="https://deepwiki.com/aazw/rfc-search"><img src="https://deepwiki.com/badge.svg"></a></td>
       <td><a href="https://github.com/aazw/rfc-search/pulls"><img src="https://img.shields.io/github/issues-pr/aazw/rfc-search"></td>
-      <td></td>
+      <td>
+        <a href="https://github.com/aazw/rfc-search/actions/workflows/renovate-pr-check.yaml">
+          <img src="https://github.com/aazw/rfc-search/actions/workflows/renovate-pr-check.yaml/badge.svg">
+        </a>
+        <br/>
+        <a href="https://github.com/aazw/rfc-search/actions/workflows/deplay_pages.yaml">
+          <img src="https://github.com/aazw/rfc-search/actions/workflows/deplay_pages.yaml/badge.svg">
+        </a>
+      </td>
     </tr>
     <tr>
       <td><a href="https://github.com/aazw/sensor-rs-wfevs1">sensor-rs-wfevs1</a></td>
       <td>Private</td>
       <td><a href="https://github.com/aazw/sensor-rs-wfevs1/pulls"><img src="https://img.shields.io/github/issues-pr/aazw/sensor-rs-wfevs1"></td>
-      <td></td>
+      <td>
+        <a href="https://github.com/aazw/sensor-rs-wfevs1/actions/workflows/download_csv_from_s3.yml">
+          <img src="https://github.com/aazw/sensor-rs-wfevs1/actions/workflows/download_csv_from_s3.yml/badge.svg">
+        </a>
+      </td>
     </tr>
   </tbody>
 </table>
