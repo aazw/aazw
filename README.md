@@ -16,25 +16,25 @@
     </tr>
     <tr>
       <td><a href="https://github.com/aazw/github-planter">github-planter</a></td>
-      <td></td>
+      <td><a href="https://deepwiki.com/aazw/github-planter"><img src="https://deepwiki.com/badge.svg"></a></td>
       <td><a href="https://github.com/aazw/github-planter/pulls"><img src="https://img.shields.io/github/issues-pr/aazw/github-planter"></td>
       <td></td>
     </tr>
     <tr>
       <td><a href="https://github.com/aazw/vscode-base">vscode-base</a></td>
-      <td></td>
+      <td><a href="https://deepwiki.com/aazw/vscode-base"><img src="https://deepwiki.com/badge.svg"></a></td>
       <td><a href="https://github.com/aazw/vscode-base/pulls"><img src="https://img.shields.io/github/issues-pr/aazw/vscode-base"></td>
       <td></td>
     </tr>
     <tr>
       <td><a href="https://github.com/aazw/vscode-go">vscode-go</a></td>
-      <td></td>
+      <td><a href="https://deepwiki.com/aazw/vscode-go"><img src="https://deepwiki.com/badge.svg"></a></td>
       <td><a href="https://github.com/aazw/vscode-go/pulls"><img src="https://img.shields.io/github/issues-pr/aazw/vscode-go"></td>
       <td></td>
     </tr>
     <tr>
       <td><a href="https://github.com/aazw/vscode-diagram-as-code">vscode-diagram-as-code</a></td>
-      <td></td>
+      <td><a href="https://deepwiki.com/aazw/vscode-diagram-as-code"><img src="https://deepwiki.com/badge.svg"></a></td>
       <td><a href="https://github.com/aazw/vscode-diagram-as-code/pulls"><img src="https://img.shields.io/github/issues-pr/aazw/vscode-diagram-as-code"></td>
       <td></td>
     </tr>
@@ -56,19 +56,19 @@
     </tr>
     <tr>
       <td><a href="https://github.com/aazw/dragopen">dragopen</a></td>
-      <td></td>
+      <td><a href="https://deepwiki.com/aazw/dragopen"><img src="https://deepwiki.com/badge.svg"></a></td>
       <td><a href="https://github.com/aazw/dragopen/pulls"><img src="https://img.shields.io/github/issues-pr/aazw/dragopen"></td>
       <td></td>
     </tr>
     <tr>
       <td><a href="https://github.com/aazw/firefox-addon-quick-download-images">firefox-addon-quick-download-images</a></td>
-      <td></td>
+      <td><a href="https://deepwiki.com/aazw/firefox-addon-quick-download-images"><img src="https://deepwiki.com/badge.svg"></a></td>
       <td><a href="https://github.com/aazw/firefox-addon-quick-download-images/pulls"><img src="https://img.shields.io/github/issues-pr/aazw/firefox-addon-quick-download-images"></td>
       <td></td>
     </tr>
     <tr>
       <td><a href="https://github.com/aazw/github-trending-feeds">github-trending-feeds</a></td>
-      <td></td>
+      <td><a href="https://deepwiki.com/aazw/github-trending-feeds"><img src="https://deepwiki.com/badge.svg"></a></td>
       <td><a href="https://github.com/aazw/github-trending-feeds/pulls"><img src="https://img.shields.io/github/issues-pr/aazw/github-trending-feeds"></td>
       <td></td>
     </tr>
@@ -80,7 +80,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/aazw/rfc-search">rfc-search</a></td>
-      <td></td>
+      <td><a href="https://deepwiki.com/aazw/rfc-search"><img src="https://deepwiki.com/badge.svg"></a></td>
       <td><a href="https://github.com/aazw/rfc-search/pulls"><img src="https://img.shields.io/github/issues-pr/aazw/rfc-search"></td>
       <td></td>
     </tr>
