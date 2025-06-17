@@ -1,6 +1,12 @@
+Pull Requests: 
+<a href="https://github.com/pulls">
+  <img src="https://img.shields.io/github/issues-search?query=is%3Aopen%20is%3Apr%20author%3Aaazw%20archived%3Afalse%20&label=Created">
+</a> 
 <a href="https://github.com/pulls/assigned">
-  <img src="https://img.shields.io/github/issues-search?query=is%3Aopen%20is%3Apr%20assignee%3Aaazw%20archived%3Afalse%20">
+  <img src="https://img.shields.io/github/issues-search?query=is%3Aopen%20is%3Apr%20assignee%3Aaazw%20archived%3Afalse%20&label=Assigned">
 </a>
+
+<br/>
 
 <table>
   <thead>
