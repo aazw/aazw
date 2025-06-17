@@ -1,3 +1,7 @@
+<a href="https://github.com/pulls/assigned">
+  <img src="https://img.shields.io/github/issues-search?query=is%3Aopen%20is%3Apr%20assignee%3Aaazw%20archived%3Afalse%20">
+</a>
+
 <table>
   <thead>
     <tr>
