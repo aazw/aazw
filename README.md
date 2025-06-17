@@ -40,19 +40,31 @@
       <td><a href="https://github.com/aazw/vscode-base">vscode-base</a></td>
       <td><a href="https://deepwiki.com/aazw/vscode-base"><img src="https://deepwiki.com/badge.svg"></a></td>
       <td><a href="https://github.com/aazw/vscode-base/pulls"><img src="https://img.shields.io/github/issues-pr/aazw/vscode-base"></td>
-      <td></td>
+      <td>
+        <a href="https://github.com/aazw/vscode-base/actions/workflows/renovate-pr-check.yaml">
+          <img src="https://github.com/aazw/vscode-base/actions/workflows/renovate-pr-check.yaml/badge.svg">
+        </a>
+      </td>
     </tr>
     <tr>
       <td><a href="https://github.com/aazw/vscode-go">vscode-go</a></td>
       <td><a href="https://deepwiki.com/aazw/vscode-go"><img src="https://deepwiki.com/badge.svg"></a></td>
       <td><a href="https://github.com/aazw/vscode-go/pulls"><img src="https://img.shields.io/github/issues-pr/aazw/vscode-go"></td>
-      <td></td>
+      <td>
+        <a href="https://github.com/aazw/vscode-go/actions/workflows/renovate-pr-check.yaml">
+          <img src="https://github.com/aazw/vscode-go/actions/workflows/renovate-pr-check.yaml/badge.svg">
+        </a>
+      </td>
     </tr>
     <tr>
       <td><a href="https://github.com/aazw/vscode-diagram-as-code">vscode-diagram-as-code</a></td>
       <td><a href="https://deepwiki.com/aazw/vscode-diagram-as-code"><img src="https://deepwiki.com/badge.svg"></a></td>
       <td><a href="https://github.com/aazw/vscode-diagram-as-code/pulls"><img src="https://img.shields.io/github/issues-pr/aazw/vscode-diagram-as-code"></td>
-      <td></td>
+      <td>
+        <a href="https://github.com/aazw/vscode-diagram-as-code/actions/workflows/renovate-pr-check.yaml">
+          <img src="https://github.com/aazw/vscode-diagram-as-code/actions/workflows/renovate-pr-check.yaml/badge.svg">
+        </a>
+      </td>
     </tr>
     <tr>
       <td><a href="https://github.com/aazw/vscode-arduino">vscode-arduino</a></td>
