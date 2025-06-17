@@ -18,7 +18,23 @@
       <td><a href="https://github.com/aazw/github-planter">github-planter</a></td>
       <td><a href="https://deepwiki.com/aazw/github-planter"><img src="https://deepwiki.com/badge.svg"></a></td>
       <td><a href="https://github.com/aazw/github-planter/pulls"><img src="https://img.shields.io/github/issues-pr/aazw/github-planter"></td>
-      <td></td>
+      <td>
+        <a href="https://github.com/aazw/github-planter/actions/workflows/planting.yml">
+          <img src="https://github.com/aazw/github-planter/actions/workflows/planting.yml/badge.svg">
+        </a>
+        <br/>
+        <a href="https://github.com/aazw/github-planter/actions/workflows/renovate-pr-check.yaml">
+          <img src="https://github.com/aazw/github-planter/actions/workflows/renovate-pr-check.yaml/badge.svg">
+        </a>
+        <br/>
+        <a href="https://github.com/aazw/github-planter/actions/workflows/build-docker-image.yaml">
+          <img src="https://github.com/aazw/github-planter/actions/workflows/build-docker-image.yaml/badge.svg">
+        </a>
+        <br/>
+        <a href="https://github.com/aazw/github-planter/actions/workflows/capture-screeenshot.yaml">
+          <img src="https://github.com/aazw/github-planter/actions/workflows/capture-screeenshot.yaml/badge.svg">
+        </a>
+      </td>
     </tr>
     <tr>
       <td><a href="https://github.com/aazw/vscode-base">vscode-base</a></td>
