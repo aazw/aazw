@@ -179,7 +179,7 @@ Pull Requests:
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/aazw/github-search-vivecodes" target="_blank">github-trending-feeds</a></td>
+      <td><a href="https://github.com/aazw/github-search-vivecodes" target="_blank">github-search-vivecodes</a></td>
       <td><a href="https://deepwiki.com/aazw/github-search-vivecodes" target="_blank"><img src="https://deepwiki.com/badge.svg"></a></td>
       <td><a href="https://github.com/aazw/github-search-vivecodes/pulls" target="_blank"><img src="https://img.shields.io/github/issues-pr/aazw/github-search-vivecodes"></td>
       <td>
