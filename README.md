@@ -35,16 +35,16 @@ Pull Requests:
       <td><a href="https://deepwiki.com/aazw/github-planter" target="_blank"><img src="https://deepwiki.com/badge.svg"></a></td>
       <td><a href="https://github.com/aazw/github-planter/pulls" target="_blank"><img src="https://img.shields.io/github/issues-pr/aazw/github-planter"></td>
       <td>
-        <a href="https://github.com/aazw/github-planter/actions/workflows/planting.yml" target="_blank">
-          <img src="https://github.com/aazw/github-planter/actions/workflows/planting.yml/badge.svg">
-        </a>
-        <br/>
         <a href="https://github.com/aazw/github-planter/actions/workflows/renovate-pr-check.yaml" target="_blank">
           <img src="https://github.com/aazw/github-planter/actions/workflows/renovate-pr-check.yaml/badge.svg">
         </a>
         <br/>
         <a href="https://github.com/aazw/github-planter/actions/workflows/build-docker-image.yaml" target="_blank">
           <img src="https://github.com/aazw/github-planter/actions/workflows/build-docker-image.yaml/badge.svg">
+        </a>
+        <br/>
+        <a href="https://github.com/aazw/github-planter/actions/workflows/planting.yml" target="_blank">
+          <img src="https://github.com/aazw/github-planter/actions/workflows/planting.yml/badge.svg">
         </a>
         <br/>
         <a href="https://github.com/aazw/github-planter/actions/workflows/capture-screeenshot.yaml" target="_blank">
