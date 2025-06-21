@@ -194,6 +194,7 @@ Pull Requests:
         <a href="https://github.com/aazw/github-search-vivecodes/actions/workflows/search_claudemd.yaml" target="_blank">
           <img src="https://github.com/aazw/github-search-vivecodes/actions/workflows/search_claudemd.yaml/badge.svg">
         </a>
+        <br/>
         <a href="https://github.com/aazw/github-search-vivecodes/actions/workflows/github_pages.yml" target="_blank">
           <img src="https://github.com/aazw/github-search-vivecodes/actions/workflows/github_pages.yml/badge.svg">
         </a>
