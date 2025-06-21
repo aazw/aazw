@@ -178,5 +178,26 @@ Pull Requests:
         </a>
       </td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/aazw/github-search-vivecodes" target="_blank">github-trending-feeds</a></td>
+      <td><a href="https://deepwiki.com/aazw/github-search-vivecodes" target="_blank"><img src="https://deepwiki.com/badge.svg"></a></td>
+      <td><a href="https://github.com/aazw/github-search-vivecodes/pulls" target="_blank"><img src="https://img.shields.io/github/issues-pr/aazw/github-search-vivecodes"></td>
+      <td>
+        <a href="https://github.com/aazw/github-search-vivecodes/actions/workflows/renovate-pr-check.yaml" target="_blank">
+          <img src="https://github.com/aazw/github-search-vivecodes/actions/workflows/renovate-pr-check.yaml/badge.svg">
+        </a>
+        <br/>
+        <a href="https://github.com/aazw/github-search-vivecodes/actions/workflows/search_clinerules.yaml" target="_blank">
+          <img src="https://github.com/aazw/github-search-vivecodes/actions/workflows/search_clinerules.yaml/badge.svg">
+        </a>
+        <br/>
+        <a href="https://github.com/aazw/github-search-vivecodes/actions/workflows/search_claudemd.yaml" target="_blank">
+          <img src="https://github.com/aazw/github-search-vivecodes/actions/workflows/search_claudemd.yaml/badge.svg">
+        </a>
+        <a href="https://github.com/aazw/github-search-vivecodes/actions/workflows/github_pages.yml" target="_blank">
+          <img src="https://github.com/aazw/github-search-vivecodes/actions/workflows/github_pages.yml/badge.svg">
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
