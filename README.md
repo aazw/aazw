@@ -17,6 +17,9 @@ Pages:
 * GitHub Search Results - https://aazw.github.io/github-search-vivecodes/
 * RFC Search - https://aazw.github.io/rfc-search/
 
+Artifacts:
+* DragOpen - https://chromewebstore.google.com/detail/dragopen/bohednalfdagplahacjafjfkjaadhpjc
+
 <br/>
 
 <table>
