@@ -108,13 +108,13 @@ Artifacts:
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/aazw/go-base" target="_blank">go-base</a></td>
+      <td><a href="https://github.com/aazw/go-base" target="_blank">go-boilerplate</a></td>
       <td><strong>Go</strong>, Node</td>
-      <td><a href="https://deepwiki.com/aazw/go-base" target="_blank"><img src="https://deepwiki.com/badge.svg"></a></td>
-      <td><a href="https://github.com/aazw/go-base/pulls" target="_blank"><img src="https://img.shields.io/github/issues-pr/aazw/go-base"></td>
+      <td><a href="https://deepwiki.com/aazw/go-boilerplate" target="_blank"><img src="https://deepwiki.com/badge.svg"></a></td>
+      <td><a href="https://github.com/aazw/go-boilerplate/pulls" target="_blank"><img src="https://img.shields.io/github/issues-pr/aazw/go-boilerplate"></td>
       <td>
-        <a href="https://github.com/aazw/go-base/actions/workflows/renovate-pr-check.yaml" target="_blank">
-          <img src="https://github.com/aazw/go-base/actions/workflows/renovate-pr-check.yaml/badge.svg">
+        <a href="https://github.com/aazw/go-boilerplate/actions/workflows/renovate-pr-check.yaml" target="_blank">
+          <img src="https://github.com/aazw/go-boilerplate/actions/workflows/renovate-pr-check.yaml/badge.svg">
         </a>
       </td>
     </tr>
