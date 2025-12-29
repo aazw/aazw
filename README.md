@@ -64,12 +64,14 @@
 ### Profile
 
 * https://github.com/aazw/aazw
+  - DeepWiki: <a href="https://deepwiki.com/aazw/aazw"><img src="https://deepwiki.com/badge.svg"></a>
   - PRs: <a href="https://github.com/aazw/aazw/pulls"><img src="https://img.shields.io/github/issues-pr/aazw/aazw"></a>
 
 ### Pre-build DevContainers
 
 * https://github.com/aazw/devcontainers-devbox
   * Images: base, go, python, rust, java, js, swift
+  - DeepWiki: <a href="https://deepwiki.com/aazw/devcontainers-devbox"><img src="https://deepwiki.com/badge.svg"></a>
   - PRs: <a href="https://github.com/aazw/devcontainers-devbox/pulls"><img src="https://img.shields.io/github/issues-pr/aazw/devcontainers-devbox"></a>
   - Actions:
     - [![Build devcontainer images](https://github.com/aazw/devcontainers-devbox/actions/workflows/build-devcontainer-images.yaml/badge.svg)](https://github.com/aazw/devcontainers-devbox/actions/workflows/build-devcontainer-images.yaml)
@@ -78,6 +80,7 @@
 
 * https://github.com/aazw/devcontainers (Archived)
   * Images: base(js, python), go, python(uv), rust, java, swift
+  - DeepWiki: <a href="https://deepwiki.com/aazw/devcontainers"><img src="https://deepwiki.com/badge.svg"></a>
   - PRs: <a href="https://github.com/aazw/devcontainers/pulls"><img src="https://img.shields.io/github/issues-pr/aazw/devcontainers"></a>
   - Actions:
     - [![Build devcontainer images](https://github.com/aazw/devcontainers/actions/workflows/build-devcontainer-images.yaml/badge.svg)](https://github.com/aazw/devcontainers/actions/workflows/build-devcontainer-images.yaml)
@@ -198,8 +201,9 @@
 
 ### Proof of Concept
 
-* https://github.com/aazw/ios-wifi-aware-demo
+* https://github.com/aazw/ios-wifi-aware-demo (Private repo)
   - Lang: **Swift**
+  - PRs: <a href="https://github.com/aazw/ios-wifi-aware-demo/pulls"><img src="https://img.shields.io/github/issues-pr/aazw/ios-wifi-aware-demo"></a>
 
 <!--  -->
 
