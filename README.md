@@ -3,6 +3,14 @@
 ### Pull Requests
 
 <table>
+<thead>
+  <tr>
+    <th>Created</th>
+    <th>Assigned</th>
+    <th>Mentioned</th>
+    <th>Review requests</th>
+  </tr>
+</thead>
 <tbody>
   <tr>
     <td>
@@ -25,7 +33,6 @@
         <img src="https://img.shields.io/github/issues-search?query=is%3Aopen%20is%3Apr%20review-requested%3Aaazw%20archived%3Afalse%20&label=Review%20requests">
       </a>
     </td>
-    <td>
   </tr>
 </table>
 
