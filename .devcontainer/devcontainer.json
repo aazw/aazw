@@ -1,0 +1,46 @@
+{
+  "name": "vsc-aazw",
+  "image": "aazw/devcontainers-devbox-base:1",
+  "features": {
+    "ghcr.io/devcontainers/features/docker-outside-of-docker:1": {
+      "version": "latest",
+      "enableNonRootDocker": "true",
+      "moby": "true"
+    }
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "emeraldwalk.runonsave",
+        "ms-azuretools.vscode-containers",
+        "ms-azuretools.vscode-docker",
+        "tamasfe.even-better-toml",
+        "anthropic.claude-code",
+        "openai.chatgpt"
+      ],
+      "settings": {
+        "terminal.integrated.defaultProfile.linux": "bash"
+      }
+    }
+  },
+  "mounts": [
+    {
+      "source": "${localWorkspaceFolder}/.claude",
+      "target": "/home/vscode/.claude",
+      "type": "bind"
+    }
+  ],
+  "containerUser": "root",
+  "remoteUser": "vscode",
+  "remoteEnv": {
+    "LOCAL_WORKSPACE_FOLDER": "${localWorkspaceFolder}",
+    "TZ": "Asia/Tokyo",
+    "TASK_X_ENV_PRECEDENCE": "1"
+  },
+  "runArgs": [
+    "--name",
+    "vsc-aazw",
+    "--add-host",
+    "host.docker.internal:host-gateway"
+  ]
+}
