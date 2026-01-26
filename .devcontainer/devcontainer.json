@@ -1,6 +1,6 @@
 {
   "name": "vsc-aazw-${localWorkspaceFolderBasename}-${devcontainerId}",
-  "image": "aazw/devcontainers-devbox-base:6",
+  "image": "aazw/devcontainers-devbox-base:8",
   "initializeCommand": "bash -lc 'mkdir -p \"${localWorkspaceFolder}/.devcontainer/.state/claude\" \"${localWorkspaceFolder}/.devcontainer/.state/codex\"'",
   "features": {
     "ghcr.io/devcontainers/features/docker-outside-of-docker:1": {

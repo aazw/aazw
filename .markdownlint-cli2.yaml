@@ -1,0 +1,13 @@
+# https://github.com/DavidAnson/markdownlint/blob/v0.40.0/README.md#configuration
+config:
+  default: true
+  MD013:
+    line_length: 260
+  # First line in a file should be a top-level heading
+  MD041: false
+  # Inline HTML
+  MD033: false
+  # Images should have alternate text (alt text)
+  MD045: false
+  # MD024/no-duplicate-heading Multiple headings with the same content
+  MD024: false
